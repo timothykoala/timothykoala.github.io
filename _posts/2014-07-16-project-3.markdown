@@ -1,11 +1,11 @@
 ---
 layout: default
-modal-id: 3
+modal-id: 2
 date: 2014-07-16
-img: circus.png
+img: scicom.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: Since 2014
+client: The Investigator Taiwan, 
+category: Science Communication, Scientific Writing
+description: Writing/editing news and reviews for <a href="https://investigator.tw/author/id003/" target="_blank" style="color:blue;">The Investigator Taiwan</a> about recent biomedical research and interview KOLs, covering genome editing, single cell analysis, precision medicine, microbiota, cancer immunotherapy. <br> 科普作品集、訪問、活動內容可參見 <a href="https://investigator.tw/author/id003/" target="_blank" style="color:blue;">The Investigator Taiwan</a>。
 ---
