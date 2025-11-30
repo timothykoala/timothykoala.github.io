@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 2
-date: 2014-07-16
+date: 2014-07-15
 img: scicom.png
 alt: image-alt
 project-date: Since 2014
