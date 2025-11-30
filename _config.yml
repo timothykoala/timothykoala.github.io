@@ -1,5 +1,5 @@
 # Site settings
-title: Dreamome - Collections of Dreams
+title: Dreamome
 email: timothykoala@gmail.com
 url: dreamome.com
 description: "A scientist working on understanding epigenetics regulation. Passionate to summarize discoveries, biotech industry development and communicating science. Writer and outreach educator with multiple continents life experiences."
@@ -41,10 +41,12 @@ footer:
 social:
   - title: linkedin
     url: https://www.linkedin.com/in/timothychaneh/
+  - title: medium
+    url: https://medium.com/nostatsignificance
   - title: facebook
-    url: http://facebook.com/timothykoala
+    url: https://facebook.com/timothykoala
   - title: twitter
-    url: http://twitter.com/timothykoala
+    url: https://twitter.com/timothykoala
   - title: bluesky
     url: https://bsky.app/profile/timothykoala.bsky.social
   - title: github
