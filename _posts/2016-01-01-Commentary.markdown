@@ -1,7 +1,7 @@
 ---
 layout: default
-modal-id: 4
-date: 2017-01-10
+modal-id: 3
+date: 2016-01-01
 img: commentary.png
 alt: image-alt
 project-date: Since 2025
