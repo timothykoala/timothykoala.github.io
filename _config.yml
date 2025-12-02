@@ -58,7 +58,7 @@ address:
   - line: Germany
 
 # Credits content
-credits: 'Science is my passion, Education is my mission and Be thou my vision.'
+credits: 'Science is my passion, Be thou my vision.'
 
 # Build settings
 markdown: kramdown
