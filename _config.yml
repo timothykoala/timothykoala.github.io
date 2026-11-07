@@ -34,7 +34,7 @@ color:
 # Footer settings
 footer:
   copyright: Timothy En Haw Chan
-  location: Current Location
+  location: Location
   social: Around the Web
   credits: Vision Statement
 
@@ -54,6 +54,9 @@ social:
 # Postal address (add as many lines as necessary)
 address:
   - line: Boston, MA
+  - line: Freiburg, DE
+  - line: Taipei, TW
+  - line: Johoe Bahru, MYS
 
 
 # Credits content
