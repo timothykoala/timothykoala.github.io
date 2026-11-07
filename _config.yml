@@ -53,9 +53,10 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Breisacher Str. 66
-  - line: 79106 Freiburg im Breisgau
-  - line: Germany
+  - line: Boston, MA
+  - line: Freiburg, Germany
+  - line: Taipei, Taiwan
+  - line: Johor Bahru, Malaysia
 
 # Credits content
 credits: 'Science is my passion, Be thou my vision.'
